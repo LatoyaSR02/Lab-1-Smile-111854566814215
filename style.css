@@ -1,0 +1,16 @@
+html{
+  background-color:lavender;
+}
+h1{
+  color:orange; 
+  font-style:italic;
+}
+h2{
+  color:red;
+  font-style:oblique;
+}
+h3{
+  color:blue;
+  font-style:italic; 
+}
+
